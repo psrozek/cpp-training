@@ -21,3 +21,7 @@
   * rand() % 100
   * for loop
   * break, continue
+
+
+6. number guessing game - [guessing_game.cpp](https://github.com/psrozek/cpp-training/blob/main/guessing_game.cpp)
+  * if/else ternary operator
