@@ -15,3 +15,9 @@
 4. switch ticket machine - [ticket_machine.cpp](https://github.com/psrozek/cpp-training/blob/main/ticket_machine.cpp)
   * while loop
   * switch-case
+
+5. switch ticket machine - [random.cpp](https://github.com/psrozek/cpp-training/blob/main/random.cpp)
+  * generates random numbers
+  * rand() % 100
+  * for loop
+  * break, continue
