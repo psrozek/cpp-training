@@ -1,5 +1,5 @@
 ## C++ Training Programs
 
-1. input/output - [number_guessing_game.py](https://github.com/psrozek/python-training/blob/main/number_guessing_game.py)
+1. input/output - [input_output.cpp](https://github.com/psrozek/cpp-training/blob/main/input_output.cpp)
   * std::string, cin, cout
   * getline()
