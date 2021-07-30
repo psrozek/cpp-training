@@ -13,4 +13,5 @@
   * if, else if, else
 
 4. switch ticket machine - [ticket_machine.cpp](https://github.com/psrozek/cpp-training/blob/main/ticket_machine.cpp)
+  * while loop
   * switch-case
