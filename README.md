@@ -22,6 +22,9 @@
   * for loop
   * break, continue
 
-
 6. number guessing game - [guessing_game.cpp](https://github.com/psrozek/cpp-training/blob/main/guessing_game.cpp)
   * if/else ternary operator
+
+7. size of - [sizeof.cpp](https://github.com/psrozek/cpp-training/blob/main/sizeof.cpp)
+  * sizeof()
+  * check size of int, bool, and char
