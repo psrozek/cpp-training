@@ -3,7 +3,7 @@
 
 int main()
 {
-	  int guessCount = 0;
+    int guessCount = 0;
     int minNumber = 0;
     int maxNumber = 0;
     int randomNumber = 0;
@@ -12,7 +12,7 @@ int main()
 
     while (bIsRunning)
     {
-        std::cout << "***Number guessing game***\n";
+        std::cout << "*****Number guessing game*****\n";
         
         // Take input from user
       
