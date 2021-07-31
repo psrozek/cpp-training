@@ -28,3 +28,7 @@
 7. size of - [sizeof.cpp](https://github.com/psrozek/cpp-training/blob/main/sizeof.cpp)
   * sizeof()
   * check size of int, bool, and char
+
+8. vector - [vector.cpp](https://github.com/psrozek/cpp-training/blob/main/vector.cpp)
+  * std::vector<int>
+  * .pop_back(), .push_back(...), .erase(...), .insert(...)
