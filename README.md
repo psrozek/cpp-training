@@ -32,3 +32,8 @@
 8. vector - [vector.cpp](https://github.com/psrozek/cpp-training/blob/main/vector.cpp)
   * std::vector<int>
   * .pop_back(), .push_back(...), .erase(...), .insert(...)
+ 
+9. class/struct - [class_struct.cpp](https://github.com/psrozek/cpp-training/blob/main/class_structcpp)
+  * access to simple class and simple struct
+ 
+ 
