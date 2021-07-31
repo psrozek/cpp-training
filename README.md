@@ -36,7 +36,7 @@
 9. class/struct - [class_struct.cpp](https://github.com/psrozek/cpp-training/blob/main/class_struct.cpp)
   * access to simple class and simple struct
  
- 10. adding records - [ add_record.cpp](https://github.com/psrozek/cpp-training/blob/main/ add_record.cpp)
+ 10. adding records - [ add_record.cpp](https://github.com/psrozek/cpp-training/blob/main/add_record.cpp)
   * struct "Person" with "age" (int) and "name" (std::string)
   * vector with "Person" records
   * void function to add records to vector
