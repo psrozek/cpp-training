@@ -45,4 +45,8 @@
   * declare pointer to int
   * dereference pointer
 
+12. pointer to array - [array_pointer.cpp](https://github.com/psrozek/cpp-training/blob/main/array_pointer.cpp)
+  * nullptr
+  * pointer p to the address of array's element
+  * access array's element via p[...]
 
