@@ -41,7 +41,7 @@
   * vector with "Person" records
   * void function to add records to vector
  
-11. vector - [pointers.cpp](https://github.com/psrozek/cpp-training/blob/main/pointers.cpp)
+11. pointer - [pointers.cpp](https://github.com/psrozek/cpp-training/blob/main/pointers.cpp)
   * declare pointer to int
   * dereference pointer
 
@@ -49,4 +49,7 @@
   * nullptr
   * pointer p to the address of array's element
   * access array's element via p[...]
+ 
+13. pointer arithmetic - [pointers2.cpp](https://github.com/psrozek/cpp-training/blob/main/pointers2.cpp)
+  * arithmetic operations on pointers
 
