@@ -53,6 +53,9 @@
 13. pointer arithmetic - [pointers2.cpp](https://github.com/psrozek/cpp-training/blob/main/pointers2.cpp)
   * arithmetic operations on pointers
 
-14. pointer arithmetic - [pointers3.cpp](https://github.com/psrozek/cpp-training/blob/main/pointers3.cpp)
+14. incrementing pointers - [pointers3.cpp](https://github.com/psrozek/cpp-training/blob/main/pointers3.cpp)
   * pointer in for loop
   * incrementing pointer
+ 
+15. references - [references.cpp](https://github.com/psrozek/cpp-training/blob/main/references.cpp)
+  * references & pointers
