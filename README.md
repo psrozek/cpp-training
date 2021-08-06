@@ -59,3 +59,6 @@
  
 15. references - [references.cpp](https://github.com/psrozek/cpp-training/blob/main/references.cpp)
   * references & pointers
+ 
+16. dynamic variables - [dynamic_vars.cpp](https://github.com/psrozek/cpp-training/blob/main/dynamic_vars.cpp)
+  * new int, delete
